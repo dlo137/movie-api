@@ -1,0 +1,10 @@
+----------------------------- FRONT END -----------------------------
+1. Black bacgkround for app
+2. Header is input field "Enter Your Movie..."
+3. Body has 4 x 2 card grid
+4. Cards contain album cover and title
+5. Bottom of card is black w a lowered opacity
+    - this helps display the words
+
+----------------------------- BACK END -----------------------------
+1. connect to IDMB API for the cover and title endpoints
